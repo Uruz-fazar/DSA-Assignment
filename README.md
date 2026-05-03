@@ -114,7 +114,7 @@ Make all elements equal using minimum operations.
 
 ## ▶️ Input
 
-Program will ask step-by-step:
+Program will ask step-by-step: 
 
 ```
 Enter size of array:
